@@ -1,0 +1,1 @@
+Berisi langkah-langkah determinix
